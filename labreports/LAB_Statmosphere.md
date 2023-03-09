@@ -4,7 +4,7 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Andrew Roberti  
 **GitHub Handle:** Statmosphere  
-**Repository:** Your Forked Repository  
+**Repository:** https://github.com/Statmosphere/cis411_lab1_CI
 ___
 
 # Step 1: Fork this repository
